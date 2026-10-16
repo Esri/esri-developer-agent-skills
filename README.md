@@ -56,7 +56,7 @@ When editing packages, validate manifests against the official [Agent Plugins 1.
 
 ## Issues
 
-Find a bug or want to request a new feature?  Please let us know by [submitting an issue](https://github.com/Esri/esri-agent-skills/issues/new)).
+Find a bug or want to request a new feature?  Please let us know by [submitting an issue](https://github.com/Esri/esri-agent-skills/issues/new).
 
 ## Contributing
 
