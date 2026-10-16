@@ -54,6 +54,10 @@ After installation, verify that:
 
 When editing packages, validate manifests against the official [Agent Plugins 1.0 plugin schema](https://agent-plugins.org/schemas/1.0.0/plugin.schema.json) and [MCP schema](https://agent-plugins.org/schemas/1.0.0/mcp.schema.json).
 
+## Issues
+
+Find a bug or want to request a new feature?  Please let us know by [submitting an issue](https://github.com/Esri/esri-agent-skills/issues/new)).
+
 ## Contributing
 
 Esri welcomes contributions from anyone and everyone. Before you [file an issue](https://github.com/Esri/esri-agent-skills/issues/new) or issue a [pull request](https://github.com/Esri/esri-agent-skills/pulls), please read our **[Contributing Guidelines](CONTRIBUTING.md)** to learn about our process and how to request new features, propose bug fixes or improvements.
