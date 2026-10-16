@@ -64,7 +64,7 @@ Esri welcomes contributions from anyone and everyone. Before you [file an issue]
 
 Please also note that this project is governed by our **[Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code.
 
-## Licene
+## License
 
 Copyright 2026 Esri
 
