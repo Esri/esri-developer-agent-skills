@@ -64,6 +64,20 @@ Esri welcomes contributions from anyone and everyone. Before you [file an issue]
 
 Please also note that this project is governed by our **[Code of Conduct](CODE_OF_CONDUCT.md)**. By participating, you are expected to uphold this code.
 
-## License
+## Licene
 
-Licensed under the [Apache License, Version 2.0](LICENSE).
+Copyright 2026 Esri
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+A copy of the license is available in the repository's [LICENSE](LICENSE?raw=true) file.
