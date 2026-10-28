@@ -1,10 +1,10 @@
 # Contributing
 
-Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing). All contributions must follow our [code of conduct](CODE_OF_CONDUCT.md).
+Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/Esri/contributing). All contributions must follow our [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Before filing an issue
 
-If something isn't working the way you expected, please take a look at [previously logged issues](https://github.com/Esri/esri-agent-skills/issues) first. Have you found a new bug?  Want to request a new feature? [We would like to hear from you](https://github.com/Esri/esri-agent-skills/issues/new).
+If something isn't working the way you expected, please take a look at [previously logged issues](https://github.com/Esri/esri-developer-agent-skills/issues) first. Have you found a new bug?  Want to request a new feature? [We would like to hear from you](https://github.com/Esri/esri-developer-agent-skills/issues/new).
 
 **Please include the following information in your issue:**
 
@@ -17,10 +17,10 @@ If something isn't working the way you expected, please take a look at [previous
 
 ## I want to contribute, what should I work on?
 
-* [Ask a question](https://github.com/Esri/esri-agent-skills/issues/new)
-* [Request a new feature](https://github.com/Esri/esri-agent-skills/issues/new)
-* [Contribute a new skill](https://github.com/Esri/esri-agent-skills/issues/new)
-* [Report a bug](https://github.com/Esri/esri-agent-skills/issues/new)
+* [Ask a question](https://github.com/Esri/esri-developer-agent-skills/issues/new)
+* [Request a new feature](https://github.com/Esri/esri-developer-agent-skills/issues/new)
+* [Contribute a new skill](https://github.com/Esri/esri-developer-agent-skills/issues/new)
+* [Report a bug](https://github.com/Esri/esri-developer-agent-skills/issues/new)
 
 ## Getting a development environment set up
 

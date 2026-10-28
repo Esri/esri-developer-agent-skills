@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "arcgis-and-openlayers",
+  "description": "Build and troubleshoot browser-based mapping apps with OpenLayers and ArcGIS services, using current Esri developer documentation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Esri"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Esri/esri-developer-agent-skills",
+  "keywords": [
+    "arcgis",
+    "gis",
+    "mapping",
+    "developer-tools"
+  ]
+}
