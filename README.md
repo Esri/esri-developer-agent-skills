@@ -1,6 +1,6 @@
-# Esri agent skills
+# Esri developer agent skills
 
-Install **Esri agent skills** and **MCP servers** to enhance your AI workflows via [Agent Plugins](https://agent-plugins.org/specification/). This repository packages technology-specific guidance and access to Esri documentation.
+Install **Esri developer agent skills** and **MCP servers** to enhance your AI workflows via [Agent Plugins](https://agent-plugins.org/specification/). This repository packages technology-specific guidance and access to Esri documentation.
 
 ## What's Included
 
