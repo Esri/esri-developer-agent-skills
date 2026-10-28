@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "arcgis-maps-sdk-for-qt",
+  "description": "Build ArcGIS Maps SDK for Qt apps while referencing Esri developer documentation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Esri"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Esri/esri-developer-agent-skills",
+  "keywords": [
+    "arcgis",
+    "gis",
+    "mapping",
+    "developer-tools"
+  ]
+}

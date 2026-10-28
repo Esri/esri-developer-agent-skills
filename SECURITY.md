@@ -6,6 +6,6 @@ against exposed secrets.
 
 ## Reporting a Vulnerability
 
-To check the status of open security issues, go to [Security and quality](https://github.com/Esri/esri-agent-skills/security).
+To check the status of open security issues, go to [Security and quality](https://github.com/Esri/esri-developer-agent-skills/security).
 
 To report a security issue, use [Report a security concern](https://trust.arcgis.com/en/security-concern/).
