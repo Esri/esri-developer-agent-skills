@@ -9,12 +9,12 @@
   },
   "plugins": [
     {
-      "name": "general-esri-development",
+      "name": "arcgis-developer-core",
       "description": "Build with Esri developer technology while referencing Esri developer documentation.",
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/general-esri-development"
+      "source": "./plugins/developers/arcgis-developer-core"
     },
     {
       "name": "arcgis-api-for-python",
@@ -22,7 +22,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-api-for-python"
+      "source": "./plugins/developers/arcgis-api-for-python"
     },
     {
       "name": "arcgis-rest-js",
@@ -30,7 +30,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-rest-js"
+      "source": "./plugins/developers/arcgis-rest-js"
     },
     {
       "name": "calcite-design-system",
@@ -38,7 +38,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/calcite-design-system"
+      "source": "./plugins/developers/calcite-design-system"
     },
     {
       "name": "arcgis-and-cesiumjs",
@@ -46,7 +46,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-and-cesiumjs"
+      "source": "./plugins/developers/arcgis-and-cesiumjs"
     },
     {
       "name": "arcgis-maps-sdk-for-dotnet",
@@ -54,7 +54,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-dotnet"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-dotnet"
     },
     {
       "name": "arcgis-leaflet",
@@ -62,7 +62,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-leaflet"
+      "source": "./plugins/developers/arcgis-leaflet"
     },
     {
       "name": "arcgis-maps-sdk-for-flutter",
@@ -70,7 +70,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-flutter"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-flutter"
     },
     {
       "name": "arcgis-maps-sdk-for-javascript",
@@ -78,7 +78,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-javascript"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-javascript"
     },
     {
       "name": "arcgis-maps-sdk-for-kotlin",
@@ -86,7 +86,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-kotlin"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-kotlin"
     },
     {
       "name": "arcgis-maplibre",
@@ -94,7 +94,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maplibre"
+      "source": "./plugins/developers/arcgis-maplibre"
     },
     {
       "name": "arcgis-and-openlayers",
@@ -102,7 +102,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-and-openlayers"
+      "source": "./plugins/developers/arcgis-and-openlayers"
     },
     {
       "name": "arcgis-maps-sdk-for-qt",
@@ -110,7 +110,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-qt"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-qt"
     },
     {
       "name": "arcgis-maps-sdk-for-swift",
@@ -118,7 +118,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-swift"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-swift"
     },
     {
       "name": "arcgis-maps-sdk-for-unity",
@@ -126,7 +126,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-unity"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-unity"
     },
     {
       "name": "arcgis-maps-sdk-for-unreal-engine",
@@ -134,7 +134,7 @@
       "version": "0.1.0",
       "license": "Apache-2.0",
       "homepage": "https://github.com/ArcGIS/esri-agent-skills",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-unreal-engine"
+      "source": "./plugins/developers/arcgis-maps-sdk-for-unreal-engine"
     }
   ]
 }

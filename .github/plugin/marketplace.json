@@ -7,10 +7,10 @@
   "version": "0.1.0",
   "plugins": [
     {
-      "name": "general-esri-development",
+      "name": "arcgis-developer-core",
       "description": "Build with Esri developer technology while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/general-esri-development",
+      "source": "./plugins/developers/arcgis-developer-core",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -27,7 +27,7 @@
       "name": "arcgis-api-for-python",
       "description": "Build ArcGIS API for Python scripts while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-api-for-python",
+      "source": "./plugins/developers/arcgis-api-for-python",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -44,7 +44,7 @@
       "name": "arcgis-rest-js",
       "description": "Build with ArcGIS REST JS while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-rest-js",
+      "source": "./plugins/developers/arcgis-rest-js",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -61,7 +61,7 @@
       "name": "calcite-design-system",
       "description": "Build with Calcite Design System while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/calcite-design-system",
+      "source": "./plugins/developers/calcite-design-system",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -78,7 +78,7 @@
       "name": "arcgis-and-cesiumjs",
       "description": "Build CesiumJS and ArcGIS apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-and-cesiumjs",
+      "source": "./plugins/developers/arcgis-and-cesiumjs",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -95,7 +95,7 @@
       "name": "arcgis-maps-sdk-for-dotnet",
       "description": "Build ArcGIS Maps SDK for .NET apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-dotnet",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-dotnet",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -112,7 +112,7 @@
       "name": "arcgis-leaflet",
       "description": "Build ArcGIS plugin for Leaflet apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-leaflet",
+      "source": "./plugins/developers/arcgis-leaflet",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -129,7 +129,7 @@
       "name": "arcgis-maps-sdk-for-flutter",
       "description": "Build ArcGIS Maps SDK for Flutter apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-flutter",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-flutter",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -146,7 +146,7 @@
       "name": "arcgis-maps-sdk-for-javascript",
       "description": "Build ArcGIS Maps SDK for JavaScript apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-javascript",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-javascript",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -163,7 +163,7 @@
       "name": "arcgis-maps-sdk-for-kotlin",
       "description": "Build ArcGIS Maps SDK for Kotlin apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-kotlin",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-kotlin",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -180,7 +180,7 @@
       "name": "arcgis-maplibre",
       "description": "Build ArcGIS plugin for MapLibre GL JS apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maplibre",
+      "source": "./plugins/developers/arcgis-maplibre",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -197,7 +197,7 @@
       "name": "arcgis-and-openlayers",
       "description": "Build OpenLayers and ArcGIS apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-and-openlayers",
+      "source": "./plugins/developers/arcgis-and-openlayers",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -214,7 +214,7 @@
       "name": "arcgis-maps-sdk-for-qt",
       "description": "Build ArcGIS Maps SDK for Qt apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-qt",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-qt",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -231,7 +231,7 @@
       "name": "arcgis-maps-sdk-for-swift",
       "description": "Build ArcGIS Maps SDK for Swift apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-swift",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-swift",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -248,7 +248,7 @@
       "name": "arcgis-maps-sdk-for-unity",
       "description": "Build ArcGIS Maps SDK for Unity apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-unity",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-unity",
       "category": "developer-tools",
       "tags": [
         "arcgis",
@@ -265,7 +265,7 @@
       "name": "arcgis-maps-sdk-for-unreal-engine",
       "description": "Build ArcGIS Maps SDK for Unreal Engine apps while referencing Esri developer documentation.",
       "version": "0.1.0",
-      "source": "./plugins/esri-developers/arcgis-maps-sdk-for-unreal-engine",
+      "source": "./plugins/developers/arcgis-maps-sdk-for-unreal-engine",
       "category": "developer-tools",
       "tags": [
         "arcgis",

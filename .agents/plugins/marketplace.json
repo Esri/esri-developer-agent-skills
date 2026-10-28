@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "general-esri-development",
+      "name": "arcgis-developer-core",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/general-esri-development"
+        "path": "./plugins/developers/arcgis-developer-core"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -20,7 +20,7 @@
       "name": "arcgis-api-for-python",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-api-for-python"
+        "path": "./plugins/developers/arcgis-api-for-python"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -32,7 +32,7 @@
       "name": "arcgis-rest-js",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-rest-js"
+        "path": "./plugins/developers/arcgis-rest-js"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -44,7 +44,7 @@
       "name": "calcite-design-system",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/calcite-design-system"
+        "path": "./plugins/developers/calcite-design-system"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -56,7 +56,7 @@
       "name": "arcgis-and-cesiumjs",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-and-cesiumjs"
+        "path": "./plugins/developers/arcgis-and-cesiumjs"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -68,7 +68,7 @@
       "name": "arcgis-maps-sdk-for-dotnet",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-dotnet"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-dotnet"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -80,7 +80,7 @@
       "name": "arcgis-leaflet",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-leaflet"
+        "path": "./plugins/developers/arcgis-leaflet"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -92,7 +92,7 @@
       "name": "arcgis-maps-sdk-for-flutter",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-flutter"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-flutter"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -104,7 +104,7 @@
       "name": "arcgis-maps-sdk-for-javascript",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-javascript"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-javascript"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -116,7 +116,7 @@
       "name": "arcgis-maps-sdk-for-kotlin",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-kotlin"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-kotlin"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -128,7 +128,7 @@
       "name": "arcgis-maplibre",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maplibre"
+        "path": "./plugins/developers/arcgis-maplibre"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -140,7 +140,7 @@
       "name": "arcgis-and-openlayers",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-and-openlayers"
+        "path": "./plugins/developers/arcgis-and-openlayers"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -152,7 +152,7 @@
       "name": "arcgis-maps-sdk-for-qt",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-qt"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-qt"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -164,7 +164,7 @@
       "name": "arcgis-maps-sdk-for-swift",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-swift"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-swift"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -176,7 +176,7 @@
       "name": "arcgis-maps-sdk-for-unity",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-unity"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-unity"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -188,7 +188,7 @@
       "name": "arcgis-maps-sdk-for-unreal-engine",
       "source": {
         "source": "local",
-        "path": "./plugins/esri-developers/arcgis-maps-sdk-for-unreal-engine"
+        "path": "./plugins/developers/arcgis-maps-sdk-for-unreal-engine"
       },
       "policy": {
         "installation": "AVAILABLE",
