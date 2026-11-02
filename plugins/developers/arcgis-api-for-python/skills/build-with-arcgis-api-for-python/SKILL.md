@@ -41,7 +41,7 @@ Keep installation and environment setup guidance in this skill, not in topic ref
 
 ## How to query documentation
 
-Documentation can be queried using the MCP for Esri Developers server:
+Documentation can be queried using the MCP for Esri developer documentation server:
 ```
 https://developers-mcp.arcgis.com/mcp
 ```

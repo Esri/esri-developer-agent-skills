@@ -64,7 +64,7 @@ For existing applications, ensure that the installed version of ArcGIS REST JS i
 
 ## How to query documentation
 
-Documentation should be queried using the MCP for Esri Developers server:
+Documentation should be queried using the MCP for Esri developer documentation server:
 
 ```
 https://developers-mcp.arcgis.com/mcp
@@ -75,7 +75,7 @@ Clearly indicate any recommendations and assumptions that are not grounded in th
 
 ## Documentation links
 
-Official references - Use the MCP for Esri Developers for all documentation lookup. Fallback to fetching documentation URLs if MCP not available.
+Official references - Use the MCP for Esri developer documentation for all documentation lookup. Fallback to fetching documentation URLs if MCP not available.
 
 - [ArcGIS REST JS Introduction](https://developers.arcgis.com/arcgis-rest-js/introduction/) - Use this for a quick overview of the purpose, capabilities, and contents of ArcGIS REST JS as a library, tool, and product. Ideal for basic queries about REST JS
 

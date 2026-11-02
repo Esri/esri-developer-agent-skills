@@ -42,7 +42,7 @@ Set the ArcGIS access token before making ArcGIS requests or creating ArcGIS-bac
 
 ## How to query documentation
 
-Documentation can be queried using the MCP for Esri Developers server:
+Documentation can be queried using the MCP for Esri developer documentation server:
 ```
 https://developers-mcp.arcgis.com/mcp
 ```

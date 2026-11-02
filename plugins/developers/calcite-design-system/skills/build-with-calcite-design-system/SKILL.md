@@ -24,7 +24,7 @@ Developers must have one of the following ArcGIS accounts to create applications
 
 ## How to query documentation
 
-Documentation can be queried using the MCP for Esri Developers server:
+Documentation can be queried using the MCP for Esri developer documentation server:
 
 ```txt
 https://developers-mcp.arcgis.com/mcp

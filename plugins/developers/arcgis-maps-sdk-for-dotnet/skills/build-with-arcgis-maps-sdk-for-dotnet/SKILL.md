@@ -35,7 +35,7 @@ Follow these steps to install ArcGIS Maps SDK for .NET:
 
 ## How to query documentation
 
-Documentation can be queried using the MCP for Esri Developers server:
+Documentation can be queried using the MCP for Esri developer documentation server:
 ```
 https://developers-mcp.arcgis.com/mcp
 ```

@@ -32,7 +32,7 @@ Use optional Toolkit widgets when they suit the requested experience.
 
 ## How to query documentation
 
-Documentation can be queried using the MCP for Esri Developers server:
+Documentation can be queried using the MCP for Esri developer documentation server:
 ```
 https://developers-mcp.arcgis.com/mcp
 ```

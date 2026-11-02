@@ -38,7 +38,7 @@ Before installing, identify package manager/lockfile, framework, CDN versus Node
 
 ## How to query documentation
 
-Documentation can be queried using the MCP for Esri Developers server:
+Documentation can be queried using the MCP for Esri developer documentation server:
 ```
 https://developers-mcp.arcgis.com/mcp
 ```
@@ -48,7 +48,7 @@ Clearly indicate any recommendations and assumptions that are not grounded in th
 
 ## Documentation links
 
-Official references - prefer the MCP for Esri Developers for all page lookups and fall back to URLs if not available.
+Official references - prefer the MCP for Esri developer documentation for all page lookups and fall back to URLs if not available.
 
 - [MapLibre GL JS with ArcGIS guide](https://developers.arcgis.com/maplibre-gl-js/) - overview and app setup.
 - [MapLibre ArcGIS API reference](https://developers.arcgis.com/maplibre-gl-js/api-reference/) - plugin APIs and factories.

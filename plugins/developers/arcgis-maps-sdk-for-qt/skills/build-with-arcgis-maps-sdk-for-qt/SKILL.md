@@ -29,7 +29,7 @@ ArcGIS Maps SDK for Qt can be installed and set up in your development environme
 
 ## How to query documentation
 
-Documentation can be queried using the MCP for Esri Developers server:
+Documentation can be queried using the MCP for Esri developer documentation server:
 ```
 https://developers-mcp.arcgis.com/mcp
 ```
