@@ -68,7 +68,7 @@ The ArcGIS Maps SDK for Qt requires a valid license to use. License levels inclu
 
 These code example links provide the best authoritative source for learning how to implement various features and use cases in the Qt Maps SDK. Use these code examples as a basis for the AI agent to educate and guide users effectively.
 
-- [ArcGIS Maps SDK for Qt Samples](https://github.com/Esri/arcgis-maps-sdk-qt-samples) - A collection of various sample applications demonstrating different features and use cases of the Qt Maps SDK.
+- [ArcGIS Maps SDK for Qt Samples](https://github.com/Esri/arcgis-maps-sdk-samples-qt) - A collection of various sample applications demonstrating different features and use cases of the Qt Maps SDK.
 - [Dynamic Situational Awareness Qt Sample App](https://github.com/Esri/dynamic-situational-awareness-qt) - A sample application demonstrating dynamic situational awareness capabilities using the Qt Maps SDK.
 - [Qt Maps SDK Tutorials](https://developers.arcgis.com/qt/tutorials/) - A collection of tutorials for learning how to use the Qt Maps SDK in various scenarios. This is the gateway page for accessing all available tutorials.
 - [ArcGIS Maps SDK Toolkit API Reference](https://developers.arcgis.com/qt/toolkit/api-reference/) - The official API reference for the ArcGIS Maps SDK Toolkit in Qt. It provides code examples interspersed in the docs.
