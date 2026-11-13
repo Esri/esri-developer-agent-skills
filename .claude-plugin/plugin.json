@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-sdks-and-apis-plugin",
+  "version": "1.0.0",
+  "description": "Build and integrate with Esri developer technologies using agent skills for ArcGIS SDKs, APIs, and supported open-source libraries and an MCP server for official documentation.",
+  "author": { "name": "Esri" },
+  "mcpServers": "./mcp.json"
+}

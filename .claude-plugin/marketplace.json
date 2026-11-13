@@ -1,0 +1,20 @@
+{
+  "name": "esri-developer-agent-skills",
+  "owner": {
+    "name": "Esri"
+  },
+  "metadata": {
+    "description": "ArcGIS guidance and resources for agentic developer workflows",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "arcgis-sdks-and-apis-plugin",
+      "description": "Build and integrate with Esri developer technologies using agent skills for ArcGIS SDKs, APIs, and supported open-source libraries and an MCP server for official documentation.",
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "homepage": "https://github.com/Esri/esri-developer-agent-skills",
+      "source": "./"
+    }
+  ]
+}

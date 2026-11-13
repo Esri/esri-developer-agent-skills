@@ -1,0 +1,22 @@
+{
+  "name": "esri-developer-agent-skills",
+  "interface": {
+    "displayName": "Esri Developer Agent Skills",
+    "description": "ArcGIS guidance and resources for agentic developer workflows"
+  },
+  "plugins": [
+    {
+      "name": "arcgis-sdks-and-apis-plugin",
+      "description": "Build and integrate with Esri developer technologies using agent skills for ArcGIS SDKs, APIs, and supported open-source libraries and an MCP server for official documentation.",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
