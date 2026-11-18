@@ -1,0 +1,6 @@
+# Codex CLI skill metadata (optional; the skill works without it).
+allow_implicit_invocation: true
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "mcp-for-esri-developer-documentation"
