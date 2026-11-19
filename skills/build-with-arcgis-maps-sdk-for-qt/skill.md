@@ -28,15 +28,17 @@ and clarify consequential unknowns. Reuse decisions already supplied by the user
 - Honor explicit SDK, Qt, UI framework, and target-platform choices. Preserve an existing
   project's SDK and build system unless an upgrade or migration is requested or necessary;
   clarify consequential changes before proceeding.
-- For a new app without an explicit SDK choice, normally choose the most recently **released**
-  SDK, verified through [downloads](https://developers.arcgis.com/qt/downloads/) and
-  [release notes](https://developers.arcgis.com/qt/release-notes/). Use documentation matching
-  the selected SDK version.
-- Without a user or existing-project Qt preference, choose the newest installed Qt version
-  **compatible with the selected SDK and target**. Verify required Qt modules, compiler/ABI,
-  architecture, and OS in the selected release's
-  [system requirements](https://developers.arcgis.com/qt/system-requirements/).
-  Meeting a minimum Qt version alone does not establish compatibility.
+- For new projects, if the user has no explicit preferences, prefer the following defaults:
+  - ArcGIS Maps SDK for Qt version: choose the most recently **released** SDK, verified
+    through [downloads](https://developers.arcgis.com/qt/downloads/) and
+    [release notes](https://developers.arcgis.com/qt/release-notes/). Use documentation matching
+    the selected SDK version.
+  - Qt version: normally choose the newest installed Qt version compatible with the selected SDK and
+    target. Verify required Qt modules, compiler/ABI, architecture, and OS in the selected release's
+    [system requirements](https://developers.arcgis.com/qt/system-requirements/).
+  - Build system: prefer CMake over QMake.
+  - UI framework: prefer Qt Quick/QML for modern, cross-platform development, while Qt Widgets may be
+    used for legacy or specialized desktop applications.
 
 ## Authentication and licensing
 
