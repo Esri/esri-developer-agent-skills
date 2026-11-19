@@ -73,9 +73,17 @@ Handle licensing results and authentication failures explicitly.
   Verify the SDK and Qt kit actually resolved by CMake, including cached paths, rather than
   trusting `PATH` or a requested prefix. Do not require global registration changes merely to
   satisfy the bundled script's discovery assumptions.
+- In build scripts, quote discovered tool paths correctly for the target shell. Verify the
+  actual compiler/toolset, architecture, and ABI against the
+  selected SDK's supported toolchain; IDE host branding alone does not identify the toolset
+  or establish support for a newer compiler.
 - Check the selected release's CMake integration for generator, build-type, runtime-library,
   and deployment requirements. Use separate build directories where configurations could
   reuse incompatible cached libraries. Preserve required SDK/Qt deployment steps and attribution.
+- Verify renderer assets as well as native libraries against the matching solution and
+  [deployment guide](https://developers.arcgis.com/qt/license-and-deployment/deployment/#deploying-shaders).
+  Deploy renderer-specific assets to the locations required by the selected SDK release,
+  target platform, and renderer rather than assuming a shared layout across environments.
 
 ### Integrating into an existing project
 
@@ -146,9 +154,11 @@ Preserving defaults is a technical starting point, not a requirement for manual-
 
 ## Documentation lookup
 
-Use the **Esri MCP server for developer documentation** as the preferred route to official
-documentation. Discover its available tools and schemas, search with the `qt-sdk` focus when
-supported, and fetch the relevant pages.
+Use the Esri MCP server for developer documentation to find official guidance. Search with
+`search_esri_developer_docs`, using `focus_area: "qt-sdk"` and a focused `search_term`,
+then retrieve relevant pages with `fetch_esri_developer_doc(url)`. Use `fetch_esri_developer_focus_areas()`
+when the appropriate scope is unclear. Follow the connected tools’ exposed schemas if client
+naming or parameters differ. See [MCP server tools](https://developers.arcgis.com/ai/arcgis-agentic-developer-toolkit/mcp-server/).
 
 Use [the resource guide](references/resources.md) for server setup, official references, and
 samples. If the server is unavailable or returns no useful content, consult the linked official
@@ -166,7 +176,14 @@ new test campaign or require manual interaction for every task.
   configuration, checking the resolved SDK/Qt kit and fixing new configuration or compile errors.
 - **Runtime behavior (when applicable):** Exercise the changed workflow's relevant success and
   failure paths, including loading, permissions, offline/network behavior, or cancellation as
-  applicable. Process survival alone does not prove that QML loaded or map/scene content rendered.
+  applicable. Distinguish process survival, window creation, SDK attribution, map/layer loaded
+  status, and completed drawing from visible requested content. When execution is authorized,
+  verify content in the intended supported native launch environment; distinguish launch-harness
+  or observation-timeout failures from application failures.
+- **Blank-view diagnosis:** Retain useful QML, resource-load, and draw diagnostics instead of
+  suppressing framework errors wholesale. Log credential-safe status names/codes or sanitized
+  messages, not raw credential-bearing URLs. Check the active renderer and deployed shader
+  layout even when maps/layers report loaded; loaded data alone does not establish drawing.
 - **Authentication/licensing (when changed):** Verify intended access, denied access, and the
   configured credential flow as relevant; confirm the license covers the APIs used.
 
