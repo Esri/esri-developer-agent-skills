@@ -45,7 +45,7 @@ Documentation can be queried using the Esri MCP server for developer documentati
 ```
 https://developers-mcp.arcgis.com/mcp
 ```
-Use the `search_esri_developer_docs` tool to surface authoritative documentation pages with `net-sdk` as the `focus_area` parameter in addition to a specified `search_term`. Use the `fetch_esri_developer_docs` tool with the `page_url` parameter set to return the full content of a documentation page in Markdown format. 
+Use the `search_esri_developer_docs` tool to surface authoritative documentation pages with `net-sdk` as the `focus_area` parameter in addition to a specified `search_term`. Use the `fetch_esri_developer_doc` tool with the `page_url` parameter set to return the full content of a documentation page in Markdown format. 
 
 Clearly indicate any recommendations and assumptions that are not grounded in the official documentation. If the MCP server is unavailable, consult official documentation URLs below.
 
